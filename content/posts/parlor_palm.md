@@ -1,8 +1,11 @@
 +++
-title = 'Parlor_palm'
+title = 'Parlor Palm'
 date = 2024-01-16T12:10:34-05:00
 draft = false
 +++
 
-{{< embed-pdf url="https://github.com/rachelroods/portfolio/blob/d2a9bd611891fccefbedfc2a3751e1c3e02e252b/static/ParlorPalmShort.pdf" >}}
-{{< embed-pdf url="./static/ParlorPalmLong.pdf" >}}
+## Parlor Palm
+
+{{< embed-pdf url="/ParlorPalmShort.pdf" >}}
+
+{{< embed-pdf url="/ParlorPalmLong.pdf" >}}

@@ -1,5 +1,5 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://rachelroods.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "Rachel Roods' Technical Writer Portfolio"
 theme = ['hugo-embed-pdf-shortcode', 'ananke']
 enableInlineShortcodes = true
