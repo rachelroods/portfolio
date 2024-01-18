@@ -6,4 +6,4 @@ draft = false
 
 ## Seneca Langauge
 
-{{< embed-pdf url="/SenecaLanguage.pdf" >}}
+{{< embed-pdf url="/portfolio/SenecaLanguage.pdf" >}}
