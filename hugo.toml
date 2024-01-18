@@ -1,4 +1,4 @@
-baseURL = 'https://rachelroods.github.io/'
+baseURL = 'https://rachelroods.github.io/portfolio/'
 languageCode = 'en-us'
 title = "Rachel Roods' Technical Writer Portfolio"
 theme = 'ananke'
