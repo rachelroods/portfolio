@@ -6,6 +6,6 @@ draft = false
 
 ## Parlor Palm
 
-{{< embed-pdf url="./ParlorPalmShort.pdf" >}}
+{{< embed-pdf url="/ParlorPalmShort.pdf" >}}
 
 {{< embed-pdf url="/ParlorPalmLong.pdf" >}}
