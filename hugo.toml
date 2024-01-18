@@ -1,5 +1,5 @@
 baseURL = 'https://rachelroods.github.io/portfolio/'
 languageCode = 'en-us'
 title = "Rachel Roods' Technical Writer Portfolio"
-theme = ['hugo-embed-pdf-shortcode', 'ananke']
+theme = 'ananke'
 enableInlineShortcodes = true
